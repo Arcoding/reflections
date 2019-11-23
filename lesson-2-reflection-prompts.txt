@@ -16,3 +16,5 @@ the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+How is the staging area different from the working directory and the repository? what value do you think it offers?
+Staging area only tracks history about the files I wanted to track. This make me focus easier on changues I've made only on those files, despite changues I could make i the others.
