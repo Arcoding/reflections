@@ -1,0 +1,25 @@
+h1{
+    color: darkslateblue;
+    text-align: center;
+}
+p{
+    font-size: 32px;
+}
+table{
+    border-collapse: collapse;
+    border: 3px black dotted;
+    margin: 10px;
+    padding: 2px;
+    width: 30%;
+
+}
+th,td{
+    border: 1px solid blue;
+    padding: 8px;
+    text-align: center;
+
+    
+}
+th{
+    background-color: burlywood;
+}
